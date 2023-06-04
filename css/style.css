@@ -1,0 +1,75 @@
+/* :root{
+    background-color: aquamarine;
+} */
+body{
+    font-family: 'Roboto', sans-serif;
+   
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    width: 80%;
+  
+    height: 400px;
+    background-color: yellow;
+    margin: auto;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div1{
+    width: 25%;
+    height: 80%;
+    background-color: red;
+}
+/* ------------------ */
+.navbar-brand{
+    margin: auto;
+    margin-left: 100px;
+}
+.im{
+    background-size: cover;
+}
+/* ------------------------------ */
+
+
+ 
+
+.fixx{
+    background-image: url(../image/programming-code-minimalism-wallpaper-preview.jpg);
+    height: 250px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fixx2{
+    background-image: url(../image/Language-01.jpg);
+    height: 250px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+ .faaa{
+    color: rgb(253, 253, 255);
+    background-color: transparent;
+    font-size: 30px;
+} 
+.gf{
+    display: inline;
+}
+.navbar-brand{
+    font-weight: bold;
+    color: white;
+  text-shadow: 2px 2px 3px white;
+   border-right: 2px solid rgb(233, 227, 227); 
+   padding-right: 15px;
+  
+
+
+}
+.text-info {
+    font-size: 16px;
+    font-weight: bold;
+}
